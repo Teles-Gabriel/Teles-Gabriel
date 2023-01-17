@@ -31,3 +31,6 @@ Here are some ideas to get you started:
 </div>
 
 ![snake gif](https://github.com/Teles-Gabriel/Teles-Gabriel/blob/output/github-contribution-grid-snake.gif)
+
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
+
