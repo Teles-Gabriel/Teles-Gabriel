@@ -30,5 +30,5 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/gabriel-teles" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+  ![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
 ![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
