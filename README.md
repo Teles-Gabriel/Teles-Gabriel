@@ -1,5 +1,5 @@
 ### Olá! 👋
-Eu me chamo Gabriel, tenho 22 anos, sou estudante de Física na Universidade de Brasília e estudo programação. Seja bem vindo(a) ao meu perfil.
+Eu me chamo Gabriel Teles, tenho 22 anos, sou estudante de Física na Universidade de Brasília e estudo programação. Seja bem vindo(a) ao meu perfil.
 - 🌱 Atualmente estou aprendendo Javascript, Html, Css e Bootstrap.
 - 🤔 Estou em busca de uma oportunidade para trabalhar como Desenvolvedor Front-end.
 - 😄 Pronomes: Ele/Dele.
