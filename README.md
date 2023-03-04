@@ -28,11 +28,11 @@ Here are some ideas to get you started:
  <tr>
   <td>
 <a href="https://github.com/Teles-Gabriel">
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Teles-Gabriel&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" width="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Teles-Gabriel&layout=compact&langs_count=7&theme=dracula"/>
  </td>
 <td> 
 <a href="https://github.com/Teles-Gabriel">
-<img height="180em" weight="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Teles-Gabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" width="auto" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Teles-Gabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  </td>
   </tr>
 </div>
