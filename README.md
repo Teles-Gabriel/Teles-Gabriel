@@ -25,10 +25,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/His.
 
 <div>
+ <tr>
+  <td>
 <a href="https://github.com/Teles-Gabriel">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Teles-Gabriel&layout=compact&langs_count=7&theme=dracula"/>
- <a href="https://github.com/Teles-Gabriel">
+ </td>
+<td> 
+<a href="https://github.com/Teles-Gabriel">
 <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Teles-Gabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+ </td>
+  </tr>
 </div>
 
  ## Ferramentas e Tecnologias
