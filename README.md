@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 🤔 I'm looking for an opportunity to work as a Front-end Developer.
 - 😄 Pronouns: He/His.
 
-<div>
+<div display="inline">
  <tr>
   <td>
 <a href="https://github.com/Teles-Gabriel">
