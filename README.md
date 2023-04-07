@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D0E2F2&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFF&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo!)
 ### Olá! 👋
 
 Eu me chamo Gabriel, tenho 22 anos, sou estudante de Física na Universidade de Brasília e estudo programação. Seja bem vindo(a) ao meu perfil.
@@ -6,7 +6,7 @@ Eu me chamo Gabriel, tenho 22 anos, sou estudante de Física na Universidade de 
 - 🤔 Estou em busca de uma oportunidade para trabalhar como Desenvolvedor Front-end.
 - 😄 Pronomes: Ele/Dele.
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=D0E2F2&size=35&center=true&vCenter=true&width=1000&lines=Welcome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccc&size=35&center=true&vCenter=true&width=1000&lines=Welcome!)
 
 ### Hi there 👋
 My name is Gabriel, I'm 22 years old, I'm a Physics student at the University of Brasilia and I study programming. Welcome to my profile.
