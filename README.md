@@ -2,7 +2,7 @@
 ### Olá! 👋
 
 Eu me chamo Gabriel, tenho 22 anos, sou estudante de Física na Universidade de Brasília e estudo programação. Seja bem vindo(a) ao meu perfil.
-- 🌱 Atualmente estou aprendendo Javascript, Html, Css e Bootstrap.
+- 🌱 Atualmente estou aprendendo NodeJs, Angular, TypeScript e Python.
 - 🤔 Estou em busca de uma oportunidade para trabalhar como Desenvolvedor Front-end.
 - 😄 Pronomes: Ele/Dele.
 
@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact:  ...
 -->
-- 🌱 I’m currently learning Javascript, Html, Css and Bootstrap.
+- 🌱 I’m currently learning NodeJs, Angular, TypeScript e Python
 - 🤔 I'm looking for an opportunity to work as a Front-end Developer.
 - 😄 Pronouns: He/His.
 
