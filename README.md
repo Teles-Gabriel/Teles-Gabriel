@@ -59,12 +59,12 @@ Here are some ideas to get you started:
 ###
 
 
-[![Tik-Tok-Clone](https://github-readme-stats.vercel.app/api/pin/?username=Teles-Gabriel&repo=Tik-Tok-Clone&bg_color=161B22&title_color=673ab7&text_color=D0E2F2&icon_color=673ab7&border_color=673ab7)](https://github.com/Teles-Gabriel/Tik-Tok-Clone)
-[![Website-With-Bootstrap](https://github-readme-stats.vercel.app/api/pin/?username=Teles-Gabriel&repo=Website-With-Bootstrap&bg_color=161B22&title_color=673ab7&text_color=D0E2F2&icon_color=673ab7&border_color=673ab7)](https://github.com/Teles-Gabriel/Website-With-Bootstrap)
-[![Pokedex](https://github-readme-stats.vercel.app/api/pin/?username=Teles-Gabriel&repo=Pokedex&bg_color=161B22&title_color=673ab7&text_color=D0E2F2&icon_color=673ab7&border_color=673ab7)](https://github.com/Teles-Gabriel/Pokedex)
-[![Calculadora](https://github-readme-stats.vercel.app/api/pin/?username=Teles-Gabriel&repo=Calculadora&bg_color=161B22&title_color=673ab7&text_color=D0E2F2&icon_color=673ab7&border_color=673ab7)](https://github.com/Teles-Gabriel/Calculadora)
-[![Python](https://github-readme-stats.vercel.app/api/pin/?username=Teles-Gabriel&repo=Python&bg_color=161B22&title_color=673ab7&text_color=D0E2F2&icon_color=673ab7&border_color=673ab7)](https://github.com/Teles-Gabriel/Python)
-[![Web Components](https://github-readme-stats.vercel.app/api/pin/?username=Teles-Gabriel&repo=componentes&bg_color=161B22&title_color=673ab7&text_color=D0E2F2&icon_color=673ab7&border_color=673ab7)](https://github.com/Teles-Gabriel/componentes)
+[![Tik-Tok-Clone](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Teles-Gabriel&repo=Tik-Tok-Clone&bg_color=161B22&title_color=673ab7&text_color=D0E2F2&icon_color=673ab7&border_color=673ab7)](https://github.com/Teles-Gabriel/Tik-Tok-Clone)
+[![Website-With-Bootstrap](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Teles-Gabriel&repo=Website-With-Bootstrap&bg_color=161B22&title_color=673ab7&text_color=D0E2F2&icon_color=673ab7&border_color=673ab7)](https://github.com/Teles-Gabriel/Website-With-Bootstrap)
+[![Pokedex](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Teles-Gabriel&repo=Pokedex&bg_color=161B22&title_color=673ab7&text_color=D0E2F2&icon_color=673ab7&border_color=673ab7)](https://github.com/Teles-Gabriel/Pokedex)
+[![Calculadora](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Teles-Gabriel&repo=Calculadora&bg_color=161B22&title_color=673ab7&text_color=D0E2F2&icon_color=673ab7&border_color=673ab7)](https://github.com/Teles-Gabriel/Calculadora)
+[![Python](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Teles-Gabriel&repo=Python&bg_color=161B22&title_color=673ab7&text_color=D0E2F2&icon_color=673ab7&border_color=673ab7)](https://github.com/Teles-Gabriel/Python)
+[![Web Components](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Teles-Gabriel&repo=componentes&bg_color=161B22&title_color=673ab7&text_color=D0E2F2&icon_color=673ab7&border_color=673ab7)](https://github.com/Teles-Gabriel/componentes)
 
 ![Snake animation](https://github.com/Teles-Gabriel/Teles-Gabriel/blob/output/github-contribution-grid-snake.svg)
   
