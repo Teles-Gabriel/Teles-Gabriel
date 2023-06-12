@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact:  ...
 -->
-- 🌱 I’m currently learning NodeJs, Angular, TypeScript e Python
+- 🌱 I’m currently learning NodeJs, Angular, TypeScript and Python
 - 🤔 I'm looking for an opportunity to work as a Front-end Developer.
 - 😄 Pronouns: He/His.
 
