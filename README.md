@@ -2,9 +2,9 @@
 ### Olá! 👋
 
 Eu me chamo Gabriel, tenho 22 anos, sou estudante de Física na Universidade de Brasília e estudo programação. Seja bem vindo(a) ao meu perfil.
-- 🌱 Atualmente estou aprendendo NodeJs, Angular, TypeScript e Python.
-- 🤔 Estou em busca de uma oportunidade para trabalhar como Desenvolvedor Front-end.
-- 😄 Pronomes: Ele/Dele.
+- Atualmente estou aprendendo NodeJs, Angular, TypeScript e Python.
+- Estou em busca de uma oportunidade para trabalhar como Desenvolvedor Front-end.
+- Pronomes: Ele/Dele.
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccc&size=35&center=true&vCenter=true&width=1000&lines=Welcome!)
 
@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact:  ...
 -->
-- 🌱 I’m currently learning NodeJs, Angular, TypeScript and Python
-- 🤔 I'm looking for an opportunity to work as a Front-end Developer.
-- 😄 Pronouns: He/His.
+- I’m currently learning NodeJs, Angular, TypeScript and Python
+- I'm looking for an opportunity to work as a Front-end Developer.
+- Pronouns: He/His.
 
 <div>
 <a href="https://github.com/Teles-Gabriel">
