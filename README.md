@@ -65,5 +65,5 @@ Here are some ideas to get you started:
 [![Calculadora](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Teles-Gabriel&repo=Calculadora&bg_color=161B22&title_color=673ab7&text_color=D0E2F2&icon_color=673ab7&border_color=673ab7)](https://github.com/Teles-Gabriel/Calculadora)
 [![Python](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Teles-Gabriel&repo=Python&bg_color=161B22&title_color=673ab7&text_color=D0E2F2&icon_color=673ab7&border_color=673ab7)](https://github.com/Teles-Gabriel/Python)
 
-![Snake animation](https://github.com/Teles-Gabriel/Teles-Gabriel/blob/output/github-contribution-grid-snake.svg)
+<!--![Snake animation](https://github.com/Teles-Gabriel/Teles-Gabriel/blob/output/github-contribution-grid-snake.svg)-->
   
