@@ -30,10 +30,10 @@ Here are some ideas to get you started:
 
 <div>
 <a href="https://github.com/Teles-Gabriel">
-<img height="180em" width="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Teles-Gabriel&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" width="auto" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Teles-Gabriel&layout=compact&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000&show_icons=true&include_all_commits=true&count_private=true"/>
   
 <a href="https://github.com/Teles-Gabriel">
-<img height="180em" width="auto" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Teles-Gabriel&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" width="auto" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Teles-Gabriel&title_color=1d87da&icon_color=539bf5&text_color=539bf5&bg_color=0000&show_icons=true&include_all_commits=true&count_private=true"/>
 </div>
 
  ## Ferramentas e Tecnologias
