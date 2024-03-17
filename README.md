@@ -1,9 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccc&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo!)
 ### Olá! 👋
 
-Eu me chamo Gabriel, tenho 22 anos, sou estudante de Física na Universidade de Brasília e estudo programação. Seja bem vindo(a) ao meu perfil.
-- Atualmente estou aprendendo NodeJs, Angular, TypeScript e Python.
-- Estou em busca de uma oportunidade para trabalhar como Desenvolvedor Front-end.
+Eu me chamo Gabriel, tenho 22 anos, sou estudante de Engenharia de Redes na Universidade de Brasília e Análise e Desenvolvimento de Sistemas na Universidade do Distrito Federal(UDF), ex aluno do curso de Física na UnB. Seja bem vindo(a) ao meu perfil.
+- Atualmente estou estudando NodeJs, Angular, TypeScript e Java.
 - Pronomes: Ele/Dele.
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccc&size=35&center=true&vCenter=true&width=1000&lines=Welcome!)
@@ -24,8 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact:  ...
 -->
-- I’m currently learning NodeJs, Angular, TypeScript and Python
-- I'm looking for an opportunity to work as a Front-end Developer.
+- I’m currently learning NodeJs, Angular, TypeScript and Java.
 - Pronouns: He/His.
 
 <div>
@@ -37,6 +35,8 @@ Here are some ideas to get you started:
 </div>
 
  ## Ferramentas e Tecnologias
+ <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"  width="40" height="40"/></a>
+ <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/><a/>
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" /></a>
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/></a>
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/></a>
@@ -45,7 +45,10 @@ Here are some ideas to get you started:
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" /></a>
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/></a>        
+ <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40"/><a/>
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/></a>
+
+
   
 ## Contatos
 
