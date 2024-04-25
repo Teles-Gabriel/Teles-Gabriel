@@ -8,7 +8,10 @@ Eu me chamo Gabriel, tenho 23 anos, sou estudante de Engenharia de Redes na Univ
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccc&size=35&center=true&vCenter=true&width=1000&lines=Welcome!)
 
 ### Hi there 👋
-My name is Gabriel, I'm 23 years old, I'm a Physics student at the University of Brasilia and I study programming. Welcome to my profile.
+My name is Gabriel, I'm 23 years old, and I'm a student of Network Engineering at the University of Brasília and Systems Analysis and Development at the University of the Federal District (UDF). Ex Physics student at UnB. Welcome to my profile.
+
+- Currently, I'm studying Node.js, Angular, TypeScript, and Java.
+- Pronouns: He/Him.
 
 <!--
 **Teles-Gabriel/Teles-Gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,8 +26,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact:  ...
 -->
-- I’m currently learning NodeJs, Angular, TypeScript and Java.
-- Pronouns: He/His.
 
 <div>
 <a href="https://github.com/Teles-Gabriel">
@@ -40,6 +41,7 @@ Here are some ideas to get you started:
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" /></a>
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/></a>
+ <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" /></a>
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/></a>
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/></a>
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" width="40" height="40"/></a>
@@ -48,6 +50,7 @@ Here are some ideas to get you started:
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/></a>
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="40" height="40"/></a>        
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/selenium/selenium-original.svg" width="40" height="40"/><a/>
+ <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40"/></a>
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" width="40" height="40"/></a>
 
 
