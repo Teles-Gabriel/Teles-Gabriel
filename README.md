@@ -1,14 +1,14 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccc&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo!)
 ### Olá! 👋
 
-Eu me chamo Gabriel, tenho 22 anos, sou estudante de Engenharia de Redes na Universidade de Brasília e Análise e Desenvolvimento de Sistemas na Universidade do Distrito Federal(UDF), ex aluno do curso de Física na UnB. Seja bem vindo(a) ao meu perfil.
+Eu me chamo Gabriel, tenho 23 anos, sou estudante de Engenharia de Redes na Universidade de Brasília e Análise e Desenvolvimento de Sistemas na Universidade do Distrito Federal(UDF), ex aluno do curso de Física na UnB. Seja bem vindo(a) ao meu perfil.
 - Atualmente estou estudando NodeJs, Angular, TypeScript e Java.
 - Pronomes: Ele/Dele.
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ccc&size=35&center=true&vCenter=true&width=1000&lines=Welcome!)
 
 ### Hi there 👋
-My name is Gabriel, I'm 22 years old, I'm a Physics student at the University of Brasilia and I study programming. Welcome to my profile.
+My name is Gabriel, I'm 23 years old, I'm a Physics student at the University of Brasilia and I study programming. Welcome to my profile.
 
 <!--
 **Teles-Gabriel/Teles-Gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -37,7 +37,8 @@ Here are some ideas to get you started:
  ## Ferramentas e Tecnologias
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg"  width="40" height="40"/></a>
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" width="40" height="40"/><a/>
- <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" /></a>
+ <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="40" height="40" /></a>
+ <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/></a>
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" width="40" height="40"/></a>
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" width="40" height="40"/></a>
  <a><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40"/></a>
