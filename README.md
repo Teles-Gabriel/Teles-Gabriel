@@ -70,8 +70,8 @@ Here are some ideas to get you started:
 <a href="https://github.com/Teles-Gabriel/Angular-Blog">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Teles-Gabriel&repo=Angular-Blog&bg_color=0000&title_color=1d87da&text_color=D0E2F2&icon_color=1d87da&border_color=673ab7" /> </a>
 
-<a href="https://github.com/Teles-Gabriel/Pokedex">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Teles-Gabriel&repo=Pokedex&bg_color=0000&title_color=1d87da&text_color=D0E2F2&icon_color=1d87da&border_color=673ab7"/></a>
+<a href="https://github.com/Teles-Gabriel/manteiguinha">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Teles-Gabriel&repo=Manteiguinha&bg_color=0000&title_color=1d87da&text_color=D0E2F2&icon_color=1d87da&border_color=673ab7"/></a>
 
 <a href="https://github.com/Teles-Gabriel/React-Tik-Tok-Clone">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Teles-Gabriel&repo=React-Tik-Tok-Clone&bg_color=0000&title_color=1d87da&text_color=D0E2F2&icon_color=1d87da&border_color=673ab7"/></a>
